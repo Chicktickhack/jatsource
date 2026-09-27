@@ -1,0 +1,75 @@
+
+<!doctype html>
+<html lang="id">
+  <head>
+    <meta charset="UTF-8" />
+
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0"
+    />
+
+    <meta
+      name="description"
+      content="Joglo Auto Transport - Rental Mobil, Bus, dan Motor Jogja"
+    />
+
+    <meta
+      name="theme-color"
+      content="#2196F3"
+    />
+
+    <!-- Favicon -->
+    <link
+      rel="icon"
+      type="image/png"
+      href="/logo.png"
+    />
+
+    <link
+      rel="apple-touch-icon"
+      href="/logo.png"
+    />
+
+    <title>JAT Yogjakarta</title>
+
+    <!-- Google Font -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link
+      rel="preconnect"
+      href="https://fonts.gstatic.com"
+      crossorigin
+    />
+
+    <link
+      href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap"
+      rel="stylesheet"
+    />
+
+    <!-- Tailwind CSS CDN -->
+    <script src="https://cdn.tailwindcss.com"></script>
+
+    <script>
+      tailwind.config = {
+        theme: {
+          extend: {
+            fontFamily: {
+              jakarta: ["Plus Jakarta Sans", "sans-serif"],
+            },
+
+            colors: {
+              jatblue: "#2196F3",
+              jatgreen: "#22C55E",
+            },
+          },
+        },
+      };
+    </script>
+  </head>
+
+  <body class="font-jakarta bg-slate-50 text-slate-800">
+    <div id="root"></div>
+
+    <script type="module" src="/src/main.jsx"></script>
+  </body>
+</html>
