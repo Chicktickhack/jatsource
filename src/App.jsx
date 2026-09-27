@@ -11,8 +11,7 @@ const fleetData = {
       name: "Avanza FC",
       price: "550 Ribu",
       priceFull: "Rp 550.000",
-      image:
-        "https://images.unsplash.com/photo-1549317661-bd32c8ce0d73?auto=format&fit=crop&w=1200&q=85",
+      image:"/jat.png",
       description:
         "Mobil keluarga ekonomis dan nyaman untuk perjalanan di Jogja.",
       specs: ["7 Kursi", "Termasuk Sopir & BBM", "AC Double Blower"],
@@ -21,9 +20,7 @@ const fleetData = {
       name: "Avanza FWD",
       price: "700 Ribu",
       priceFull: "Rp 700.000",
-      image:
-        "https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?auto=format&fit=crop&w=1200&q=85",
-      description:
+      image:"/jat.png",      description:
         "MPV modern yang nyaman untuk keluarga maupun perjalanan wisata.",
       specs: ["7 Kursi", "Termasuk Sopir & BBM", "AC Double Blower"],
     },
@@ -31,9 +28,7 @@ const fleetData = {
       name: "All New Brio",
       price: "600 Ribu",
       priceFull: "Rp 600.000",
-      image:
-        "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?auto=format&fit=crop&w=1200&q=85",
-      description:
+      image:"/jat.png",      description:
         "Mobil ringkas dan lincah untuk menjelajahi berbagai sudut Jogja.",
       specs: ["5 Kursi", "Termasuk Sopir & BBM", "AC"],
     },
@@ -41,9 +36,7 @@ const fleetData = {
       name: "Mobilio",
       price: "600 Ribu",
       priceFull: "Rp 600.000",
-      image:
-        "https://images.unsplash.com/photo-1542362567-b07e54358753?auto=format&fit=crop&w=1200&q=85",
-      description:
+      image:"/jat.png",      description:
         "MPV praktis dan nyaman untuk perjalanan bersama keluarga.",
       specs: ["7 Kursi", "Termasuk Sopir & BBM", "AC Double Blower"],
     },
@@ -51,9 +44,7 @@ const fleetData = {
       name: "Ertiga",
       price: "600 Ribu",
       priceFull: "Rp 600.000",
-      image:
-        "https://images.unsplash.com/photo-1541899481282-d53bffe3c35d?auto=format&fit=crop&w=1200&q=85",
-      description:
+      image:"/jat.png",      description:
         "MPV nyaman dengan kabin lega untuk perjalanan keluarga.",
       specs: ["7 Kursi", "Termasuk Sopir & BBM", "AC Double Blower"],
     },
@@ -61,9 +52,7 @@ const fleetData = {
       name: "Blindvan",
       price: "600 Ribu",
       priceFull: "Rp 600.000",
-      image:
-        "https://images.unsplash.com/photo-1566576912321-d58ddd7a6088?auto=format&fit=crop&w=1200&q=85",
-      description:
+      image:"/jat.png",      description:
         "Pilihan praktis untuk kebutuhan perjalanan maupun angkutan.",
       specs: ["Kabin Lega", "Termasuk Sopir & BBM", "AC"],
     },
@@ -71,8 +60,7 @@ const fleetData = {
       name: "Innova Reborn",
       price: "850 Ribu",
       priceFull: "Rp 850.000",
-      image:
-        "https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&w=1200&q=85",
+      image:"/jat.png",      
       description:
         "Kenyamanan premium untuk perjalanan keluarga maupun bisnis.",
       specs: ["7 Kursi", "Termasuk Sopir & BBM", "Kursi Kapten"],
@@ -81,9 +69,8 @@ const fleetData = {
       name: "Fortuner",
       price: "1,5 Juta",
       priceFull: "Rp 1.500.000",
-      image:
-        "https://images.unsplash.com/photo-1551830820-330a71b99659?auto=format&fit=crop&w=1200&q=85",
-      description:
+      image:"/jat.png",     
+       description:
         "SUV premium yang nyaman untuk perjalanan dalam maupun luar kota.",
       specs: ["7 Kursi", "Termasuk Sopir & BBM", "AC"],
     },
@@ -91,8 +78,7 @@ const fleetData = {
       name: "Pajero",
       price: "1,5 Juta",
       priceFull: "Rp 1.500.000",
-      image:
-        "https://images.unsplash.com/photo-1544829099-b9a0c07fad1a?auto=format&fit=crop&w=1200&q=85",
+      image:"/jat.png",      
       description:
         "SUV premium dengan kabin luas untuk perjalanan jauh.",
       specs: ["7 Kursi", "Termasuk Sopir & BBM", "AC"],
@@ -101,8 +87,7 @@ const fleetData = {
       name: "Innova Zenix",
       price: "1,3 Juta",
       priceFull: "Rp 1.300.000",
-      image:
-        "https://images.unsplash.com/photo-1494976388531-d1058494cdd8?auto=format&fit=crop&w=1200&q=85",
+      image:"/jat.png",      
       description:
         "MPV modern dengan kabin luas dan kenyamanan perjalanan.",
       specs: ["7 Kursi", "Termasuk Sopir & BBM", "AC"],
@@ -111,8 +96,7 @@ const fleetData = {
       name: "Innova Q Hybrid",
       price: "1,8 Juta",
       priceFull: "Rp 1.800.000",
-      image:
-        "https://images.unsplash.com/photo-1502877338535-766e1452684a?auto=format&fit=crop&w=1200&q=85",
+      image:"/jat.png",      
       description:
         "MPV premium dengan teknologi hybrid dan kenyamanan maksimal.",
       specs: ["7 Kursi", "Termasuk Sopir & BBM", "Interior Premium"],
@@ -121,8 +105,7 @@ const fleetData = {
       name: "Alphard",
       price: "3,5 Juta",
       priceFull: "Rp 3.500.000",
-      image:
-        "https://images.unsplash.com/photo-1555215695-3004980ad54e?auto=format&fit=crop&w=1200&q=85",
+      image:"/jat.png",      
       description:
         "Kendaraan mewah dengan kenyamanan dan privasi maksimal.",
       specs: ["7 Kursi", "Termasuk Sopir & BBM", "Interior Mewah"],
@@ -134,8 +117,7 @@ const fleetData = {
       name: "Hiace Commuter",
       price: "1,2 Juta",
       priceFull: "Rp 1.200.000",
-      image:
-        "https://images.unsplash.com/photo-1570125909232-eb263c188f7e?auto=format&fit=crop&w=1200&q=85",
+      image:"/jat.png",      
       description:
         "Kendaraan nyaman untuk perjalanan rombongan dengan kabin lega.",
       specs: ["14 Kursi", "Termasuk Sopir & BBM"],
@@ -144,8 +126,7 @@ const fleetData = {
       name: "Hiace Premio",
       price: "1,3 Juta",
       priceFull: "Rp 1.300.000",
-      image:
-        "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?auto=format&fit=crop&w=1200&q=85",
+      image:"/jat.png",      
       description:
         "Pilihan nyaman dan lega untuk perjalanan rombongan.",
       specs: ["14 Kursi", "Termasuk Sopir & BBM"],
@@ -154,8 +135,7 @@ const fleetData = {
       name: "Elf Short",
       price: "750 Ribu",
       priceFull: "Rp 750.000",
-      image:
-        "https://images.unsplash.com/photo-1579033461380-adb47c3eb938?auto=format&fit=crop&w=1200&q=85",
+      image:"/jat.png",      
       description:
         "Pilihan praktis untuk perjalanan rombongan dengan kapasitas pas.",
       specs: ["10-12 Kursi", "Termasuk Sopir & BBM"],
@@ -164,8 +144,7 @@ const fleetData = {
       name: "Elf Long NLR",
       price: "1,3 Juta",
       priceFull: "Rp 1.300.000",
-      image:
-        "https://images.unsplash.com/photo-1519003722824-194d4455a60c?auto=format&fit=crop&w=1200&q=85",
+      image:"/jat.png",      
       description:
         "Kendaraan rombongan dengan kapasitas lebih besar.",
       specs: ["17-19 Kursi", "Termasuk Sopir & BBM"],
@@ -174,8 +153,7 @@ const fleetData = {
       name: "Medium Bus",
       price: "2 Juta",
       priceFull: "Rp 2.000.000",
-      image:
-        "https://images.unsplash.com/photo-1549317661-bd32c8ce0d73?auto=format&fit=crop&w=1200&q=85",
+      image:"/jat.png",      
       description:
         "Solusi perjalanan rombongan besar dengan kapasitas 30 orang.",
       specs: ["30 Kursi", "Termasuk Sopir & BBM"],
@@ -184,8 +162,7 @@ const fleetData = {
       name: "Big Bus",
       price: "3 Juta",
       priceFull: "Rp 3.000.000",
-      image:
-        "https://images.unsplash.com/photo-1562519819-016930ada31b?auto=format&fit=crop&w=1200&q=85",
+      image:"/jat.png",      
       description:
         "Pilihan untuk perjalanan rombongan besar hingga 50 orang.",
       specs: ["50 Kursi", "Termasuk Sopir & BBM"],
@@ -197,8 +174,7 @@ const fleetData = {
       name: "Beat Street",
       price: "80 Ribu",
       priceFull: "Rp 80.000",
-      image:
-        "https://images.unsplash.com/photo-1558981806-ec527fa84c39?auto=format&fit=crop&w=1200&q=85",
+      image:"/jat.png",      
       description:
         "Motor ringan dan lincah untuk menjelajahi berbagai sudut Jogja.",
       tag: "Gratis 2 Helm & Jas Hujan",
@@ -208,8 +184,7 @@ const fleetData = {
       name: "Beat",
       price: "75 Ribu",
       priceFull: "Rp 75.000",
-      image:
-        "https://images.unsplash.com/photo-1609630875171-b1321377ee65?auto=format&fit=crop&w=1200&q=85",
+      image:"/jat.png",      
       description:
         "Motor ringan, irit, dan praktis untuk perjalanan harian.",
       tag: "Gratis 2 Helm & Jas Hujan",
@@ -219,8 +194,7 @@ const fleetData = {
       name: "Genio",
       price: "80 Ribu",
       priceFull: "Rp 80.000",
-      image:
-        "https://images.unsplash.com/photo-1558981285-6f0c94958bb6?auto=format&fit=crop&w=1200&q=85",
+      image:"/jat.png",      
       description:
         "Skuter praktis dengan desain modern untuk mobilitas di Jogja.",
       tag: "Gratis 2 Helm & Jas Hujan",
@@ -230,8 +204,7 @@ const fleetData = {
       name: "Scoopy",
       price: "85 Ribu",
       priceFull: "Rp 85.000",
-      image:
-        "https://images.unsplash.com/photo-1558981359-219d6364c9c8?auto=format&fit=crop&w=1200&q=85",
+      image:"/jat.png",
       description:
         "Skuter bergaya retro untuk berkeliling tempat wisata.",
       tag: "Gratis 2 Helm & Jas Hujan",
@@ -241,9 +214,7 @@ const fleetData = {
       name: "Vario",
       price: "95 Ribu",
       priceFull: "Rp 95.000",
-      image:
-        "https://images.unsplash.com/photo-1558980664-10ea8f5f2a9d?auto=format&fit=crop&w=1200&q=85",
-      description:
+      image:"/jat.png",      description:
         "Skuter sporty yang nyaman untuk mobilitas harian maupun wisata.",
       tag: "Gratis 2 Helm & Jas Hujan",
       specs: ["125 cc", "Irit Bahan Bakar", "Gratis 2 Helm + Jas Hujan"],
@@ -252,9 +223,7 @@ const fleetData = {
       name: "PCX",
       price: "130 Ribu",
       priceFull: "Rp 130.000",
-      image:
-        "https://images.unsplash.com/photo-1609630875171-b1321377ee65?auto=format&fit=crop&w=1200&q=85",
-      description:
+      image:"/jat.png",      description:
         "Skuter premium dengan posisi berkendara nyaman untuk perjalanan jauh.",
       tag: "Gratis 2 Helm & Jas Hujan",
       specs: ["160 cc", "Bagasi Luas", "Gratis 2 Helm + Jas Hujan"],
@@ -263,9 +232,7 @@ const fleetData = {
       name: "Honda Stylo",
       price: "125 Ribu",
       priceFull: "Rp 125.000",
-      image:
-        "https://images.unsplash.com/photo-1558980394-0c7d2e5d4c2c?auto=format&fit=crop&w=1200&q=85",
-      description:
+      image:"/jat.png",      description:
         "Skuter bergaya modern untuk menikmati perjalanan di Jogja.",
       tag: "Gratis 2 Helm & Jas Hujan",
       specs: ["125 cc", "Tampilan Bergaya", "Gratis 2 Helm + Jas Hujan"],
@@ -274,9 +241,7 @@ const fleetData = {
       name: "CRF",
       price: "150 Ribu",
       priceFull: "Rp 150.000",
-      image:
-        "https://images.unsplash.com/photo-1558980664-10ea8f5f2a9d?auto=format&fit=crop&w=1200&q=85",
-      description:
+      image:"/jat.png",      description:
         "Motor bergaya petualangan untuk pengalaman berkendara yang lebih seru.",
       tag: "Gratis 2 Helm & Jas Hujan",
       specs: ["150 cc", "Gaya Petualangan", "Gratis 2 Helm + Jas Hujan"],
@@ -285,9 +250,7 @@ const fleetData = {
       name: "Fazio",
       price: "85 Ribu",
       priceFull: "Rp 85.000",
-      image:
-        "https://images.unsplash.com/photo-1558980664-10ea8f5f2a9d?auto=format&fit=crop&w=1200&q=85",
-      description:
+      image:"/jat.png",      description:
         "Skuter bergaya retro-modern untuk berkeliling kota.",
       tag: "Gratis 2 Helm & Jas Hujan",
       specs: ["125 cc", "Gaya Retro", "Gratis 2 Helm + Jas Hujan"],
@@ -296,9 +259,7 @@ const fleetData = {
       name: "NMAX",
       price: "135 Ribu",
       priceFull: "Rp 135.000",
-      image:
-        "https://images.unsplash.com/photo-1558980664-10ea8f5f2a9d?auto=format&fit=crop&w=1200&q=85",
-      description:
+      image:"/jat.png",      description:
         "Skuter nyaman untuk perjalanan jarak jauh.",
       tag: "Gratis 2 Helm & Jas Hujan",
       specs: ["155 cc", "Bagasi Luas", "Gratis 2 Helm + Jas Hujan"],
@@ -307,9 +268,7 @@ const fleetData = {
       name: "Vetic Primavera",
       price: "165 Ribu",
       priceFull: "Rp 165.000",
-      image:
-        "https://images.unsplash.com/photo-1558981806-ec527fa84c39?auto=format&fit=crop&w=1200&q=85",
-      description:
+      image:"/jat.png",      description:
         "Skuter premium bergaya klasik untuk berkeliling Jogja.",
       tag: "Gratis 2 Helm & Jas Hujan",
       specs: ["150 cc", "Gaya Premium", "Gratis 2 Helm + Jas Hujan"],
@@ -318,9 +277,7 @@ const fleetData = {
       name: "Vetic Sprint",
       price: "175 Ribu",
       priceFull: "Rp 175.000",
-      image:
-        "https://images.unsplash.com/photo-1558980394-0c7d2e5d4c2c?auto=format&fit=crop&w=1200&q=85",
-      description:
+      image:"/jat.png",      description:
         "Skuter premium bergaya sporty-klasik untuk perjalanan di Jogja.",
       tag: "Gratis 2 Helm & Jas Hujan",
       specs: ["150 cc", "Gaya Sporty", "Gratis 2 Helm + Jas Hujan"],
@@ -332,9 +289,7 @@ const fleetData = {
       name: "Avanza FWD",
       price: "350 Ribu",
       priceFull: "Full Day Rp 350.000 / 12 Jam Rp 300.000",
-      image:
-        "https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?auto=format&fit=crop&w=1200&q=85",
-      description:
+      image:"/jat.png",      description:
         "Sewa tanpa sopir dengan pilihan durasi Full Day atau 12 Jam.",
       specs: ["7 Kursi", "Tanpa Sopir", "Full Day 350 Ribu", "12 Jam 300 Ribu"],
     },
@@ -342,9 +297,7 @@ const fleetData = {
       name: "Avanza FC",
       price: "300 Ribu",
       priceFull: "Full Day Rp 300.000 / 12 Jam Rp 275.000",
-      image:
-        "https://images.unsplash.com/photo-1549317661-bd32c8ce0d73?auto=format&fit=crop&w=1200&q=85",
-      description:
+      image:"/jat.png",      description:
         "MPV ekonomis untuk perjalanan mandiri di Jogja.",
       specs: ["7 Kursi", "Tanpa Sopir", "Full Day 300 Ribu", "12 Jam 275 Ribu"],
     },
@@ -352,9 +305,7 @@ const fleetData = {
       name: "Brio",
       price: "300 Ribu",
       priceFull: "Full Day Rp 300.000 / 12 Jam Rp 250.000",
-      image:
-        "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?auto=format&fit=crop&w=1200&q=85",
-      description:
+      image:"/jat.png",      description:
         "Mobil kota ringkas dan lincah untuk perjalanan mandiri.",
       specs: ["5 Kursi", "Tanpa Sopir", "Full Day 300 Ribu", "12 Jam 250 Ribu"],
     },
@@ -362,9 +313,7 @@ const fleetData = {
       name: "Ertiga",
       price: "300 Ribu",
       priceFull: "Full Day Rp 300.000 / 12 Jam Rp 250.000",
-      image:
-        "https://images.unsplash.com/photo-1541899481282-d53bffe3c35d?auto=format&fit=crop&w=1200&q=85",
-      description:
+      image:"/jat.png",      description:
         "MPV nyaman dan praktis untuk perjalanan bersama keluarga.",
       specs: ["7 Kursi", "Tanpa Sopir", "Full Day 300 Ribu", "12 Jam 250 Ribu"],
     },
@@ -372,9 +321,7 @@ const fleetData = {
       name: "Luxio",
       price: "300 Ribu",
       priceFull: "Full Day Rp 300.000 / 12 Jam Rp 250.000",
-      image:
-        "https://images.unsplash.com/photo-1566576912321-d58ddd7a6088?auto=format&fit=crop&w=1200&q=85",
-      description:
+      image:"/jat.png",      description:
         "Kabin luas untuk perjalanan keluarga maupun rombongan kecil.",
       specs: ["7 Kursi", "Tanpa Sopir", "Full Day 300 Ribu", "12 Jam 250 Ribu"],
     },
@@ -382,9 +329,7 @@ const fleetData = {
       name: "Mobilio",
       price: "300 Ribu",
       priceFull: "Full Day Rp 300.000 / 12 Jam Rp 275.000",
-      image:
-        "https://images.unsplash.com/photo-1542362567-b07e54358753?auto=format&fit=crop&w=1200&q=85",
-      description:
+      image:"/jat.png",      description:
         "MPV praktis dan nyaman untuk perjalanan mandiri.",
       specs: ["7 Kursi", "Tanpa Sopir", "Full Day 300 Ribu", "12 Jam 275 Ribu"],
     },
@@ -392,9 +337,7 @@ const fleetData = {
       name: "Xpander",
       price: "375 Ribu",
       priceFull: "Full Day Rp 375.000 / 12 Jam Rp 325.000",
-      image:
-        "https://images.unsplash.com/photo-1494976388531-d1058494cdd8?auto=format&fit=crop&w=1200&q=85",
-      description:
+      image:"/jat.png",      description:
         "MPV modern dengan kabin luas untuk perjalanan jauh.",
       specs: ["7 Kursi", "Tanpa Sopir", "Full Day 375 Ribu", "12 Jam 325 Ribu"],
     },
@@ -402,9 +345,7 @@ const fleetData = {
       name: "Jazz",
       price: "350 Ribu",
       priceFull: "Full Day Rp 350.000 / 12 Jam Rp 300.000",
-      image:
-        "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?auto=format&fit=crop&w=1200&q=85",
-      description:
+      image:"/jat.png",      description:
         "Mobil ringkas dan lincah untuk berkeliling kota.",
       specs: ["5 Kursi", "Tanpa Sopir", "Full Day 350 Ribu", "12 Jam 300 Ribu"],
     },
@@ -412,9 +353,7 @@ const fleetData = {
       name: "WRV",
       price: "350 Ribu",
       priceFull: "Full Day Rp 350.000 / 12 Jam Rp 300.000",
-      image:
-        "https://images.unsplash.com/photo-1551830820-330a71b99659?auto=format&fit=crop&w=1200&q=85",
-      description:
+      image:"/jat.png",      description:
         "SUV ringkas modern untuk perjalanan dalam maupun luar kota.",
       specs: ["5 Kursi", "Tanpa Sopir", "Full Day 350 Ribu", "12 Jam 300 Ribu"],
     },
